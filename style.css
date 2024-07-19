@@ -1,0 +1,82 @@
+h1 {
+  font-weight: bolder;
+  color: white;
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-shadow: black;
+  background-color: bisque;
+  text-align: center;
+}
+h2 {
+  color: black;
+  font-size: large;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+h3 {
+  color: burlywood;
+  font-size: larger;
+  font-weight: 300;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+h4 {
+  background-color: burlywood;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  font-weight: 100;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+img {
+  margin-right: 10px; /* Adds 10 pixels of space to the right of the image */
+}
+
+p {
+  margin-left: 10px; /* Adds 10 pixels of space to the left of the text */
+}
+
+h4 {
+  color: white;
+  text-align: center;
+  text-decoration-thickness: inherit;
+  background-color: burlywood;
+}
+p {
+  text-align: left;
+  color: black;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: lighter;
+}
+h4 {
+  text-align: center;
+  color: white;
+  background-color: burlywood;
+}
+h5 {
+  color: black;
+  text-align: right;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.button-link {
+  color: white;
+  background-color: azure;
+  border-width: 500px;
+}
+button {
+  background-color: blanchedalmond;
+  border-color: blanchedalmond;
+  border-width: 10px;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 20% 5px;
+}
+.container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+h6 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: medium;
+  font-weight: normal;
+}
